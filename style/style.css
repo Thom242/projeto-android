@@ -176,6 +176,11 @@ aside > h1{
 
 }
 
+aside > p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 ul {
     margin: 10px;
     columns: 2;
@@ -190,7 +195,7 @@ li::before {
 }
 
 footer{
-    margin-top: 15px;
+    margin-top: 20px;
     padding: 5px;
     color: white;
     background-color: var(--cor5);
